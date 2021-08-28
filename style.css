@@ -1,0 +1,45 @@
+body{
+	background-image: url('image5.JFIF');
+    background-repeat: no-repeat;
+    background-size: 1380px 700px;
+    }
+
+h1{
+	padding-top: 16px;
+	font:42px italic ;
+}
+#error1{
+    font:45px italic;
+    text-decoration: underline;
+}
+#error2{
+    margin-top:30px;
+    font:30px italic;
+}
+#error3{
+    margin-top:4px;
+    font:8px italic;
+}
+#register{
+	position:relative;
+    margin-top:75px;
+    width:35%;
+    margin-left:33%;
+    height:45px;
+ }
+
+.results{
+	position:relative;
+    margin-top:60px;
+    width:35%;
+    margin-left:33%;
+    height:45px;
+ }
+ #deregister{
+	position:relative;
+    margin-top:60px;
+    width:35%;
+    margin-left:33%;
+    height:45px;
+ }
+ 
